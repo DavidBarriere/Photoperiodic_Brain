@@ -1,1 +1,1 @@
-# OCR_Project
+# Photoperiodic_Brain_Project
